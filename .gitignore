@@ -5,7 +5,7 @@
 /.terraform/*
 /.terraform
 *.lock.*
-
+#yes
 # .tfstate files
 *.tfstate
 *.tfstate.*
