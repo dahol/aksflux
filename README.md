@@ -1,6 +1,8 @@
 # Set vars:
 rgName = input
+
 aksName = input
+
 gitUser = input
 
 # Get AKS cluster
